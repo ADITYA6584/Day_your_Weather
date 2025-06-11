@@ -6,3 +6,5 @@ just create a repo and use live server to run.
 
 
 This is the URL https://aditya6584.github.io/Day_your_Weather/
+
+This is also in netlify https://adityakumarproject.netlify.app/
